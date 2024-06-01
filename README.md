@@ -3,6 +3,8 @@ adalah aplikasi penyimpanan awan pribadi yang memungkinkan pengguna untuk mengun
 
 Fitur
 Autentikasi Pengguna: Pengguna harus masuk untuk mengakses dan mengelola file mereka.
+
+
 Unggah File: Pengguna dapat mengunggah file ke ruang penyimpanan pribadi mereka.
 Unduh File: Pengguna dapat mengunduh file yang telah mereka unggah.
 Hapus File: Pengguna dapat menghapus file yang tidak lagi mereka butuhkan.
@@ -17,8 +19,8 @@ Git: Versi 2.0 atau lebih baru
 Instalasi
 Langkah 1: Klon Repositori
 ```
-git clone https://github.com/username/personal-cloud-storage.git
-cd personal-cloud-storage
+git clone https://github.com/hariexe/Personal-Cloud.git
+cd Personal-Cloud
 ```
 
 Langkah 2: Konfigurasi Database
