@@ -3,11 +3,17 @@ adalah aplikasi penyimpanan awan pribadi yang memungkinkan pengguna untuk mengun
 
 Fitur
 Autentikasi Pengguna: Pengguna harus masuk untuk mengakses dan mengelola file mereka.
-
+![Screenshot (262)](https://github.com/hariexe/Personal-Cloud/assets/70479011/44921f92-e364-4abb-842d-9dbc616a25c7)
 
 Unggah File: Pengguna dapat mengunggah file ke ruang penyimpanan pribadi mereka.
+![Screenshot (260)](https://github.com/hariexe/Personal-Cloud/assets/70479011/4417c6d9-27cc-462f-9bab-56cc1846c994)
+
 Unduh File: Pengguna dapat mengunduh file yang telah mereka unggah.
+<img width="738" alt="image" src="https://github.com/hariexe/Personal-Cloud/assets/70479011/d2674c66-30d5-4884-a510-969a4855766c">
+
 Hapus File: Pengguna dapat menghapus file yang tidak lagi mereka butuhkan.
+<img width="738" alt="image" src="https://github.com/hariexe/Personal-Cloud/assets/70479011/41186c9e-f2a3-4d1f-a1a9-74827a3df1cf">
+
 Tampilan Penyimpanan: Pengguna dapat melihat berapa banyak ruang penyimpanan yang telah mereka gunakan.
 
 Prasyarat
