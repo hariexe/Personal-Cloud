@@ -1,7 +1,8 @@
-BiJi Cloud
-adalah aplikasi penyimpanan awan pribadi yang memungkinkan pengguna untuk mengunggah, mengunduh, dan mengelola file mereka sendiri. Aplikasi ini mendukung autentikasi pengguna dan menyediakan ruang penyimpanan yang terisolasi untuk setiap pengguna.
+## BiJi Cloud
 
-Fitur
+Personal Storage adalah aplikasi penyimpanan awan pribadi yang memungkinkan pengguna untuk mengunggah, mengunduh, dan mengelola file mereka sendiri. Aplikasi ini mendukung autentikasi pengguna dan menyediakan ruang penyimpanan yang terisolasi untuk setiap pengguna.
+
+### Fitur
 Autentikasi Pengguna: Pengguna harus masuk untuk mengakses dan mengelola file mereka.
 ![Screenshot (262)](https://github.com/hariexe/Personal-Cloud/assets/70479011/44921f92-e364-4abb-842d-9dbc616a25c7)
 
@@ -23,7 +24,7 @@ Tampilan Penyimpanan: Pengguna dapat melihat berapa banyak ruang penyimpanan yan
 > MySQL: Versi 5.7 atau lebih baru
 > Git: Versi 2.0 atau lebih baru
 
-Instalasi
+### Instalasi
 Langkah 1: Klon Repositori
 ```
 git clone https://github.com/hariexe/Personal-Cloud.git
@@ -67,7 +68,7 @@ Buka browser dan akses aplikasi melalui URL yang sesuai (misalnya, http://localh
 > Unggah File: Pilih file untuk diunggah dan klik "Unggah".
 > Lihat dan Kelola File: Lihat daftar file yang telah diunggah. Klik tombol unduh untuk mengunduh file atau tombol hapus untuk menghapus file.
 
-Mengatasi Masalah
+### Mengatasi Masalah
 
 File Tidak Terunggah
 Pastikan direktori upload/ memiliki izin yang benar.
@@ -77,8 +78,8 @@ Tidak Bisa Mengunduh atau Menghapus File
 Periksa koneksi database dan pastikan entri file ada di database.
 Pastikan file yang diunduh atau dihapus ada di direktori yang benar.
 
-Lisensi
+### Lisensi
 Proyek ini dilisensikan di bawah lisensi MIT - lihat file LICENSE untuk detail lebih lanjut.
 
-Kontak
+### Kontak
 Untuk pertanyaan lebih lanjut, Anda dapat menghubungi kami di alghuroba313@protonmail.com.
