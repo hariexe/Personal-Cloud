@@ -16,11 +16,12 @@ Hapus File: Pengguna dapat menghapus file yang tidak lagi mereka butuhkan.
 
 Tampilan Penyimpanan: Pengguna dapat melihat berapa banyak ruang penyimpanan yang telah mereka gunakan.
 
-Prasyarat
-Web Server: Apache/Nginx
-PHP: Versi 7.4 atau lebih baru
-MySQL: Versi 5.7 atau lebih baru
-Git: Versi 2.0 atau lebih baru
+> [!IMPORTANT]
+> Prasyarat
+> Web Server: Apache/Nginx
+> PHP: Versi 7.4 atau lebih baru
+> MySQL: Versi 5.7 atau lebih baru
+> Git: Versi 2.0 atau lebih baru
 
 Instalasi
 Langkah 1: Klon Repositori
@@ -60,10 +61,11 @@ sudo chmod -R 755 upload/
 Langkah 4: Jalankan Aplikasi
 Buka browser dan akses aplikasi melalui URL yang sesuai (misalnya, http://localhost/personal-cloud-storage).
 
-Penggunaan
-Login: Masuk dengan akun pengguna.
-Unggah File: Pilih file untuk diunggah dan klik "Unggah".
-Lihat dan Kelola File: Lihat daftar file yang telah diunggah. Klik tombol unduh untuk mengunduh file atau tombol hapus untuk menghapus file.
+> [!TIP]
+> Penggunaan
+> Login: Masuk dengan akun pengguna.
+> Unggah File: Pilih file untuk diunggah dan klik "Unggah".
+> Lihat dan Kelola File: Lihat daftar file yang telah diunggah. Klik tombol unduh untuk mengunduh file atau tombol hapus untuk menghapus file.
 
 Mengatasi Masalah
 
