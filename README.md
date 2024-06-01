@@ -1,4 +1,4 @@
-Personal Cloud Storage
+BiJi Cloud
 adalah aplikasi penyimpanan awan pribadi yang memungkinkan pengguna untuk mengunggah, mengunduh, dan mengelola file mereka sendiri. Aplikasi ini mendukung autentikasi pengguna dan menyediakan ruang penyimpanan yang terisolasi untuk setiap pengguna.
 
 Fitur
