@@ -1,3 +1,3 @@
 # Personal-Cloud
 
-Please change to Master branches
+Please change from Main to Master branches
